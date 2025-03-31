@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 2619698363840462723}
   - component: {fileID: 298256468040939796}
   - component: {fileID: 1289058791556042876}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Panel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -86,7 +86,7 @@ GameObject:
   - component: {fileID: 2682908334078765657}
   - component: {fileID: 2131508408694747430}
   - component: {fileID: 4149802101861915535}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Main Camera
   m_TagString: MainCamera
   m_Icon: {fileID: 0}
@@ -185,7 +185,7 @@ GameObject:
   - component: {fileID: 483033482884716209}
   - component: {fileID: 612402133116721901}
   - component: {fileID: 8226989372778635476}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Player
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -421,7 +421,7 @@ GameObject:
   - component: {fileID: 4511268172793272913}
   - component: {fileID: 5297232721413860427}
   - component: {fileID: 8933662247748206471}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}

@@ -27,7 +27,7 @@ public class PlayerAttak : MonoBehaviour
                 isAttack = true;
                 if(enemy != null && enemy.CompareTag("Enemy"))
                 {
-
+                    enemy.GetComponent<enemy>().getHeart();
                 }
                 AttackTime = 0;
             }

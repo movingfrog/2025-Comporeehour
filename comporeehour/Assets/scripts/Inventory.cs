@@ -67,8 +67,8 @@ public class Inventory : MonoBehaviour
     }
     public bool maximumSlots(Item item)
     {
-        return slots.Length < items.Count && Weight + item.Weight <= MaxWeight && 
-            (slots[3] == null || (invenSize[0] && slots[5] == null) || invenSize[2]);
+        return slots.Length > items.Count && Weight + item.Weight <= MaxWeight && 
+            (slots[3].item == null || (invenSize[0] && slots[5].item == null) || invenSize[1]);
     }
     public void AddItem(Item item)
     {

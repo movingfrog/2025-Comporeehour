@@ -84,7 +84,7 @@ public class PlayerHP : MonoBehaviour
         }
         if(HP == 0 || Oxygen == 0)
         {
-
+            CP.instance.die("Lobby", Vector2.zero, 0.5f);
         }
     }
     public void getHeart()
@@ -106,9 +106,12 @@ public class PlayerHP : MonoBehaviour
         }
         else
         {
+            isUnderground = true;
             switch (scene.name)
             {
-
+                case "map1":
+                    stageLevel = 1;
+                    break;
             }
         }
     }

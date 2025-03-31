@@ -42,7 +42,7 @@ public class chestManager : MonoBehaviour
         {
             Destroy(gameObject);
         }
-        ani = GetComponent<Animator>();
+        ani = GetComponentInChildren<Animator>();
     }
 
     public IEnumerator stageChange( string sceneName, Vector2 position, float T)
