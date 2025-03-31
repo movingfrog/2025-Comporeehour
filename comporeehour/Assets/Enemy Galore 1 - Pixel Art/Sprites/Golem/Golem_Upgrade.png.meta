@@ -1,0 +1,357 @@
+fileFormatVersion: 2
+guid: 20df5f5471596254f99315fbac829d0f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6423919989006694690
+    second: Golem_Upgrade_0
+  - first:
+      213: -7240323082703209764
+    second: Golem_Upgrade_1
+  - first:
+      213: -1541462633613847749
+    second: Golem_Upgrade_2
+  - first:
+      213: -3340979898171032725
+    second: Golem_Upgrade_3
+  - first:
+      213: 1046259422303646232
+    second: Golem_Upgrade_4
+  - first:
+      213: -4126760732610016684
+    second: Golem_Upgrade_5
+  - first:
+      213: 7136916204210688544
+    second: Golem_Upgrade_6
+  - first:
+      213: 8955644042815943930
+    second: Golem_Upgrade_7
+  - first:
+      213: -4155366205407171871
+    second: Golem_Upgrade_8
+  - first:
+      213: -6558716321753322450
+    second: Golem_Upgrade_9
+  - first:
+      213: 4926090123907202300
+    second: Golem_Upgrade_10
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Golem_Upgrade_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 166
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3398e8d6ef9b9ae0800000000000000
+      internalID: -1541462633613847749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golem_Upgrade_9
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 158
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c26534142caf4a0800000000000000
+      internalID: -6558716321753322450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golem_Upgrade_17
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 150
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04066f2ed8f07a341bf89ead6e186c69
+      internalID: -1686788194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golem_Upgrade_25
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 142
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c2946e6b3ee5f47a8b6cbe64982052
+      internalID: 424658550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Golem_Upgrade_0: -6423919989006694690
+      Golem_Upgrade_1: -7240323082703209764
+      Golem_Upgrade_10: 4926090123907202300
+      Golem_Upgrade_11: -537109935
+      Golem_Upgrade_12: 1197424148
+      Golem_Upgrade_13: 1171368311
+      Golem_Upgrade_14: -1134844777
+      Golem_Upgrade_15: 1510470942
+      Golem_Upgrade_16: -489957954
+      Golem_Upgrade_17: -1686788194
+      Golem_Upgrade_18: -1065585013
+      Golem_Upgrade_19: -1413979157
+      Golem_Upgrade_2: -1541462633613847749
+      Golem_Upgrade_20: 580339271
+      Golem_Upgrade_21: -1568604276
+      Golem_Upgrade_22: 1491119798
+      Golem_Upgrade_23: -1091876320
+      Golem_Upgrade_24: -682701683
+      Golem_Upgrade_25: 424658550
+      Golem_Upgrade_26: 124840305
+      Golem_Upgrade_27: 1530153772
+      Golem_Upgrade_28: 1446860677
+      Golem_Upgrade_29: 1822819509
+      Golem_Upgrade_3: -3340979898171032725
+      Golem_Upgrade_30: 1760374221
+      Golem_Upgrade_31: 24706743
+      Golem_Upgrade_32: -2055479829
+      Golem_Upgrade_33: 1208055077
+      Golem_Upgrade_34: -2084766636
+      Golem_Upgrade_35: -629098697
+      Golem_Upgrade_36: -173676554
+      Golem_Upgrade_37: -924220046
+      Golem_Upgrade_38: -2126367568
+      Golem_Upgrade_39: -1555037493
+      Golem_Upgrade_4: 1046259422303646232
+      Golem_Upgrade_40: -2051308775
+      Golem_Upgrade_41: -779439224
+      Golem_Upgrade_42: -424365306
+      Golem_Upgrade_43: 445555476
+      Golem_Upgrade_44: 1137679912
+      Golem_Upgrade_45: 1834765114
+      Golem_Upgrade_46: 1598431011
+      Golem_Upgrade_47: 332419935
+      Golem_Upgrade_48: -412376312
+      Golem_Upgrade_49: 1319095173
+      Golem_Upgrade_5: -4126760732610016684
+      Golem_Upgrade_50: 1494468904
+      Golem_Upgrade_51: -1505703924
+      Golem_Upgrade_52: -1431052691
+      Golem_Upgrade_53: 807703216
+      Golem_Upgrade_54: -921053233
+      Golem_Upgrade_55: -1045339962
+      Golem_Upgrade_56: 1639544210
+      Golem_Upgrade_57: 812019859
+      Golem_Upgrade_58: 1392280087
+      Golem_Upgrade_59: 441635842
+      Golem_Upgrade_6: 7136916204210688544
+      Golem_Upgrade_60: -68124452
+      Golem_Upgrade_61: -1511072593
+      Golem_Upgrade_62: 2097905741
+      Golem_Upgrade_63: 1508609916
+      Golem_Upgrade_64: 1102076721
+      Golem_Upgrade_65: 1961945214
+      Golem_Upgrade_66: 1495227782
+      Golem_Upgrade_67: 109998273
+      Golem_Upgrade_68: 1512506036
+      Golem_Upgrade_69: -1856773664
+      Golem_Upgrade_7: 8955644042815943930
+      Golem_Upgrade_70: -1348481974
+      Golem_Upgrade_71: -1447352073
+      Golem_Upgrade_72: 1000181858
+      Golem_Upgrade_73: 1526119301
+      Golem_Upgrade_74: 1388594819
+      Golem_Upgrade_75: 1130280378
+      Golem_Upgrade_76: 1691694043
+      Golem_Upgrade_77: 1316459165
+      Golem_Upgrade_78: -1802851489
+      Golem_Upgrade_79: -1854845756
+      Golem_Upgrade_8: -4155366205407171871
+      Golem_Upgrade_80: 2035980989
+      Golem_Upgrade_81: -974218724
+      Golem_Upgrade_82: -2140699041
+      Golem_Upgrade_83: 469883181
+      Golem_Upgrade_84: -1224525204
+      Golem_Upgrade_85: 815809634
+      Golem_Upgrade_86: -446607361
+      Golem_Upgrade_9: -6558716321753322450
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
